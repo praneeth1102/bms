@@ -54,7 +54,7 @@
       "date": "20260730",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "ARMH|55280|20260730|GOLD": {
       "venue": "Asian Radhika Multiplex: ECIL",
@@ -112,6 +112,14 @@
       "price": "350.00",
       "status": "0"
     },
+    "AACN|30385|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:55 AM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "2"
+    },
     "AACN|30385|20260730|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:55 AM",
@@ -120,13 +128,21 @@
       "price": "295.00",
       "status": "3"
     },
-    "AACN|30385|20260730|EXECUTIVE": {
+    "AACN|30629|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:55 AM",
+      "time": "11:30 AM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AACN|30629|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:30 AM",
       "date": "20260730",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "AACN|30386|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -152,6 +168,22 @@
       "price": "295.00",
       "status": "2"
     },
+    "AACN|30630|20260730|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "02:25 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AACN|30630|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "02:25 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
     "AACN|30387|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:45 PM",
@@ -175,6 +207,22 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
+    },
+    "AACN|30631|20260730|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:20 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AACN|30631|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:20 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
     },
     "AACN|30388|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -200,6 +248,22 @@
       "price": "295.00",
       "status": "2"
     },
+    "AACN|30632|20260730|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "08:15 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AACN|30632|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "08:15 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
     "AACN|30389|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:35 PM",
@@ -207,6 +271,14 @@
       "cat": "GOLD",
       "price": "350.00",
       "status": "0"
+    },
+    "AACN|30389|20260730|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:35 PM",
+      "date": "20260730",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
     },
     "AACN|30389|20260730|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -216,11 +288,19 @@
       "price": "295.00",
       "status": "1"
     },
-    "AACN|30389|20260730|LOUNGES": {
+    "AACN|30633|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
+      "time": "11:10 PM",
       "date": "20260730",
-      "cat": "LOUNGES",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AACN|30633|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:10 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
