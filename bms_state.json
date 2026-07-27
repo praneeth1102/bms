@@ -8,6 +8,14 @@
       "price": "295.00",
       "status": "0"
     },
+    "PRHN|253956|20260730|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:00 AM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
     "ACAS|35246|20260730|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "10:05 AM",
@@ -31,6 +39,30 @@
       "cat": "LOUNGERS",
       "price": "295.00",
       "status": "1"
+    },
+    "ACAS|35968|20260730|RECLINER": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "01:10 PM",
+      "date": "20260730",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "0"
+    },
+    "ACAS|35968|20260730|GOLD": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "01:10 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ACAS|35968|20260730|LOUNGERS": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "01:10 PM",
+      "date": "20260730",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
     },
     "ACAS|35248|20260730|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -94,7 +126,7 @@
       "date": "20260730",
       "cat": "LOUNGES",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "AACN|30384|20260730|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -152,14 +184,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30386|20260730|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "01:50 PM",
-      "date": "20260730",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "2"
-    },
     "AACN|30386|20260730|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "01:50 PM",
@@ -167,6 +191,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
+    },
+    "AACN|30386|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "01:50 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "2"
     },
     "AACN|30630|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -205,6 +237,22 @@
       "time": "04:45 PM",
       "date": "20260730",
       "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|30665|20260730|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:00 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|30665|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:00 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
@@ -248,6 +296,22 @@
       "price": "295.00",
       "status": "2"
     },
+    "AACN|30659|20260730|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "08:05 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AACN|30659|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "08:05 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
     "AACN|30632|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "08:15 PM",
@@ -272,14 +336,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30389|20260730|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
-      "date": "20260730",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "2"
-    },
     "AACN|30389|20260730|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:35 PM",
@@ -287,6 +343,14 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
+    },
+    "AACN|30389|20260730|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:35 PM",
+      "date": "20260730",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "2"
     },
     "AACN|30633|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
