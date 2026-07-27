@@ -16,6 +16,30 @@
       "price": "295.00",
       "status": "2"
     },
+    "PRHN|254063|20260730|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ACEV|18546|20260730|3D RECLINERS": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "09:40 AM",
+      "date": "20260730",
+      "cat": "3D RECLINERS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "ACEV|18546|20260730|3D GOLD": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "09:40 AM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "325.00",
+      "status": "3"
+    },
     "ACAS|35246|20260730|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "10:05 AM",
@@ -87,30 +111,6 @@
       "cat": "LOUNGERS",
       "price": "295.00",
       "status": "1"
-    },
-    "ARMH|55280|20260730|GOLD": {
-      "venue": "Asian Radhika Multiplex: ECIL",
-      "time": "10:30 AM",
-      "date": "20260730",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ARMH|55281|20260730|GOLD": {
-      "venue": "Asian Radhika Multiplex: ECIL",
-      "time": "07:20 PM",
-      "date": "20260730",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ARMH|55316|20260730|GOLD": {
-      "venue": "Asian Radhika Multiplex: ECIL",
-      "time": "10:20 PM",
-      "date": "20260730",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
     },
     "AACN|30384|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -224,14 +224,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30387|20260730|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260730",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30387|20260730|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:45 PM",
@@ -239,6 +231,14 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
+    },
+    "AACN|30387|20260730|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
     },
     "AACN|30665|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -310,7 +310,7 @@
       "date": "20260730",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AACN|30632|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -367,6 +367,30 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "2"
+    },
+    "ARMH|55280|20260730|GOLD": {
+      "venue": "Asian Radhika Multiplex: ECIL",
+      "time": "10:30 AM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ARMH|55281|20260730|GOLD": {
+      "venue": "Asian Radhika Multiplex: ECIL",
+      "time": "07:20 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ARMH|55316|20260730|GOLD": {
+      "venue": "Asian Radhika Multiplex: ECIL",
+      "time": "10:20 PM",
+      "date": "20260730",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
     },
     "APNS|1911|20260730|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
