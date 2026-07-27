@@ -14,7 +14,7 @@
       "date": "20260730",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "ACAS|35246|20260730|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -54,7 +54,7 @@
       "date": "20260730",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "ACAS|35968|20260730|LOUNGERS": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -224,14 +224,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30387|20260730|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260730",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
     "AACN|30387|20260730|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:45 PM",
@@ -240,13 +232,21 @@
       "price": "295.00",
       "status": "3"
     },
+    "AACN|30387|20260730|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "1"
+    },
     "AACN|30665|20260730|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "05:00 PM",
       "date": "20260730",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "0"
     },
     "AACN|30665|20260730|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
