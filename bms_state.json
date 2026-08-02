@@ -6,7 +6,7 @@
       "date": "20260803",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|115916|20260803|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -814,7 +814,7 @@
       "date": "20260803",
       "cat": "RECLINER ROWS",
       "price": "354.00",
-      "status": "0"
+      "status": "1"
     },
     "ILKS|9047|20260803|PRIME ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -848,14 +848,6 @@
       "price": "354.00",
       "status": "1"
     },
-    "ILKS|9049|20260803|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "07:35 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "295.00",
-      "status": "2"
-    },
     "ILKS|9049|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "07:35 PM",
@@ -863,6 +855,14 @@
       "cat": "CLASSIC ROWS",
       "price": "295.00",
       "status": "3"
+    },
+    "ILKS|9049|20260803|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "07:35 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "295.00",
+      "status": "2"
     },
     "ILKS|9050|20260803|LOUNGER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -1294,7 +1294,7 @@
       "date": "20260803",
       "cat": "VIP",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "ISTN|55573|20260803|Royal": {
       "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
@@ -1480,38 +1480,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "PVTP|18674|20260803|CLASSIC": {
-      "venue": "PVR: Preston, Gachibowli Hyderabad",
-      "time": "03:35 PM",
-      "date": "20260803",
-      "cat": "CLASSIC",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ARMH|55326|20260803|GOLD": {
-      "venue": "Asian Radhika Multiplex: ECIL",
-      "time": "10:30 AM",
-      "date": "20260803",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ARMH|55327|20260803|GOLD": {
-      "venue": "Asian Radhika Multiplex: ECIL",
-      "time": "07:30 PM",
-      "date": "20260803",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ARMH|55328|20260803|GOLD": {
-      "venue": "Asian Radhika Multiplex: ECIL",
-      "time": "10:20 PM",
-      "date": "20260803",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
     "IOMH|7555|20260803|RECLINER ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
       "time": "10:05 AM",
@@ -1566,7 +1534,7 @@
       "date": "20260803",
       "cat": "RECLINER ROWS",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "IOMH|7566|20260803|CLASSIC ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
@@ -1632,6 +1600,38 @@
       "price": "250.00",
       "status": "3"
     },
+    "ARMH|55326|20260803|GOLD": {
+      "venue": "Asian Radhika Multiplex: ECIL",
+      "time": "10:30 AM",
+      "date": "20260803",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ARMH|55327|20260803|GOLD": {
+      "venue": "Asian Radhika Multiplex: ECIL",
+      "time": "07:30 PM",
+      "date": "20260803",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ARMH|55328|20260803|GOLD": {
+      "venue": "Asian Radhika Multiplex: ECIL",
+      "time": "10:20 PM",
+      "date": "20260803",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVTP|18674|20260803|CLASSIC": {
+      "venue": "PVR: Preston, Gachibowli Hyderabad",
+      "time": "03:35 PM",
+      "date": "20260803",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    },
     "JJPP|30558|20260803|RECLINER": {
       "venue": "JP Cinemas: Chandanagar",
       "time": "07:35 PM",
@@ -1678,7 +1678,7 @@
       "date": "20260803",
       "cat": "Royal",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "INHY|133376|20260803|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -1710,7 +1710,7 @@
       "date": "20260803",
       "cat": "Royal",
       "price": "350.00",
-      "status": "0"
+      "status": "2"
     },
     "INHY|133379|20260803|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -2440,19 +2440,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "IVNM|8336|20260803|PRIME PLUS ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:40 PM",
-      "date": "20260803",
-      "cat": "PRIME PLUS ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "IVNM|8336|20260803|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "12:40 PM",
       "date": "20260803",
       "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "IVNM|8336|20260803|PRIME PLUS ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "12:40 PM",
+      "date": "20260803",
+      "cat": "PRIME PLUS ROWS",
       "price": "250.00",
       "status": "3"
     },
@@ -2504,19 +2504,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "IVNM|8339|20260803|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "10:30 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "IVNM|8339|20260803|PRIME PLUS ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "10:30 PM",
       "date": "20260803",
       "cat": "PRIME PLUS ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "IVNM|8339|20260803|CLASSIC ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "10:30 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
       "price": "250.00",
       "status": "3"
     },
