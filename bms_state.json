@@ -30,7 +30,7 @@
       "date": "20260804",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|116077|20260804|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -374,7 +374,7 @@
       "date": "20260804",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "PVFS|43780|20260804|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -480,19 +480,19 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30692|20260804|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260804",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30692|20260804|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:45 PM",
       "date": "20260804",
       "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|30692|20260804|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:45 PM",
+      "date": "20260804",
+      "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
     },
@@ -638,7 +638,7 @@
       "date": "20260804",
       "cat": "RECLINER",
       "price": "354.00",
-      "status": "2"
+      "status": "3"
     },
     "CTNR|10395|20260804|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -1118,7 +1118,7 @@
       "date": "20260804",
       "cat": "ROYAL ROWS",
       "price": "708.00",
-      "status": "3"
+      "status": "2"
     },
     "PIIC|31859|20260804|ROYAL ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
@@ -1382,7 +1382,7 @@
       "date": "20260804",
       "cat": "Royal",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "ISTN|55619|20260804|Executive": {
       "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
@@ -1502,14 +1502,6 @@
       "date": "20260804",
       "cat": "RECLINER ROWS",
       "price": "350.00",
-      "status": "2"
-    },
-    "IOMH|7588|20260804|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:05 AM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "250.00",
       "status": "3"
     },
     "IOMH|7588|20260804|CLASSIC ROWS": {
@@ -1517,6 +1509,14 @@
       "time": "10:05 AM",
       "date": "20260804",
       "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "IOMH|7588|20260804|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:05 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
       "price": "250.00",
       "status": "3"
     },
@@ -1552,19 +1552,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "IOMH|7599|20260804|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "04:50 PM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "IOMH|7599|20260804|CLASSIC ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
       "time": "04:50 PM",
       "date": "20260804",
       "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "IOMH|7599|20260804|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "04:50 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
       "price": "250.00",
       "status": "3"
     },
@@ -1576,19 +1576,19 @@
       "price": "350.00",
       "status": "2"
     },
-    "IOMH|7600|20260804|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "07:55 PM",
-      "date": "20260804",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "IOMH|7600|20260804|PRIME ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
       "time": "07:55 PM",
       "date": "20260804",
       "cat": "PRIME ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "IOMH|7600|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "07:55 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
       "price": "250.00",
       "status": "3"
     },
@@ -1838,7 +1838,7 @@
       "date": "20260804",
       "cat": "Royal",
       "price": "350.00",
-      "status": "1"
+      "status": "3"
     },
     "INHY|133395|20260804|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -1870,7 +1870,7 @@
       "date": "20260804",
       "cat": "Royal",
       "price": "350.00",
-      "status": "1"
+      "status": "2"
     },
     "INHY|133398|20260804|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -2102,7 +2102,7 @@
       "date": "20260804",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PVYH|23506|20260804|CLASSIC": {
       "venue": "PVR: Central Mall, Panjagutta",
@@ -2366,7 +2366,7 @@
       "date": "20260804",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PRCX|13698|20260804|CLASSIC": {
       "venue": "PVR: RK Cineplex, Hyderabad",
@@ -2382,7 +2382,7 @@
       "date": "20260804",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "PRCX|13701|20260804|CLASSIC": {
       "venue": "PVR: RK Cineplex, Hyderabad",
@@ -2448,6 +2448,14 @@
       "price": "299.00",
       "status": "3"
     },
+    "IVNM|8361|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "12:40 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "180.00",
+      "status": "3"
+    },
     "IVNM|8361|20260804|PRIME ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "12:40 PM",
@@ -2461,14 +2469,6 @@
       "time": "12:40 PM",
       "date": "20260804",
       "cat": "CLASSIC ROWS",
-      "price": "180.00",
-      "status": "3"
-    },
-    "IVNM|8361|20260804|PRIME PLUS ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:40 PM",
-      "date": "20260804",
-      "cat": "PRIME PLUS ROWS",
       "price": "180.00",
       "status": "3"
     },
@@ -2512,6 +2512,14 @@
       "price": "299.00",
       "status": "3"
     },
+    "IVNM|8364|20260804|PRIME ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "10:30 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "180.00",
+      "status": "3"
+    },
     "IVNM|8364|20260804|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "10:30 PM",
@@ -2525,14 +2533,6 @@
       "time": "10:30 PM",
       "date": "20260804",
       "cat": "PRIME PLUS ROWS",
-      "price": "180.00",
-      "status": "3"
-    },
-    "IVNM|8364|20260804|PRIME ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "10:30 PM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
       "price": "180.00",
       "status": "3"
     }
