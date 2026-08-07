@@ -262,7 +262,7 @@
       "date": "20260808",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "AACN|30961|20260808|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -472,14 +472,6 @@
       "price": "354.00",
       "status": "0"
     },
-    "ILKS|9215|20260808|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260808",
-      "cat": "PRIME ROWS",
-      "price": "295.00",
-      "status": "1"
-    },
     "ILKS|9215|20260808|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "11:10 AM",
@@ -487,6 +479,14 @@
       "cat": "CLASSIC ROWS",
       "price": "295.00",
       "status": "2"
+    },
+    "ILKS|9215|20260808|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "11:10 AM",
+      "date": "20260808",
+      "cat": "PRIME ROWS",
+      "price": "295.00",
+      "status": "1"
     },
     "PIIC|32030|20260808|CLASSIC": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
