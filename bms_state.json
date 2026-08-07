@@ -1,12 +1,28 @@
 {
   "shows": {
-    "AMBH|116204|20260807|SEMI RECLINER": {
+    "AMBH|116207|20260807|SEMI RECLINER": {
       "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:00 PM",
+      "time": "04:00 PM",
       "date": "20260807",
       "cat": "SEMI RECLINER",
       "price": "350.00",
       "status": "3"
+    },
+    "AMBH|116078|20260807|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:50 PM",
+      "date": "20260807",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "1"
+    },
+    "AMBH|116079|20260807|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:45 PM",
+      "date": "20260807",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "2"
     },
     "ACAS|36207|20260807|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -14,7 +30,7 @@
       "date": "20260807",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "ACAS|36207|20260807|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -120,22 +136,6 @@
       "price": "350.00",
       "status": "2"
     },
-    "AACN|30994|20260807|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:30 AM",
-      "date": "20260807",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
-    "AACN|30994|20260807|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:30 AM",
-      "date": "20260807",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30955|20260807|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "01:50 PM",
@@ -222,7 +222,7 @@
       "date": "20260807",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "AACN|30957|20260807|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -279,62 +279,6 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "2"
-    },
-    "CTNR|10463|20260807|EXECUTIVE": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "11:00 AM",
-      "date": "20260807",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
-    "CTNR|10463|20260807|VIP": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "11:00 AM",
-      "date": "20260807",
-      "cat": "VIP",
-      "price": "350.00",
-      "status": "3"
-    },
-    "ILKS|9210|20260807|RECLINER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260807",
-      "cat": "RECLINER ROWS",
-      "price": "354.00",
-      "status": "2"
-    },
-    "ILKS|9210|20260807|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260807",
-      "cat": "PRIME ROWS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ILKS|9210|20260807|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260807",
-      "cat": "CLASSIC ROWS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "PIMH|33066|20260807|RECLINER": {
-      "venue": "PVR: Irrum Manzil, Hyderabad",
-      "time": "10:15 AM",
-      "date": "20260807",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "2"
-    },
-    "PIMH|33066|20260807|CLASSIC": {
-      "venue": "PVR: Irrum Manzil, Hyderabad",
-      "time": "10:15 AM",
-      "date": "20260807",
-      "cat": "CLASSIC",
-      "price": "295.00",
-      "status": "3"
     },
     "PVYH|23578|20260807|CLASSIC": {
       "venue": "PVR: Central Mall, Panjagutta",
@@ -454,14 +398,6 @@
       "date": "20260807",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
-    },
-    "INMH|110041|20260807|Executive": {
-      "venue": "INOX: Maheshwari Parmeshwari Mall, Kachiguda",
-      "time": "10:20 AM",
-      "date": "20260807",
-      "cat": "Executive",
-      "price": "250.00",
       "status": "3"
     }
   },
