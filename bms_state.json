@@ -104,37 +104,13 @@
       "price": "295.00",
       "status": "3"
     },
-    "AACN|30961|20260808|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AACN|30961|20260808|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AACN|30961|20260808|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
     "AACN|31001|20260808|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "05:20 PM",
       "date": "20260808",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AACN|31001|20260808|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -222,7 +198,7 @@
       "date": "20260808",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "1"
+      "status": "2"
     },
     "AACN|31095|20260808|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -278,7 +254,7 @@
       "date": "20260808",
       "cat": "NORMAL",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "CMMA|5928|20260808|VIP": {
       "venue": "Cinepolis: Mantra Mall, Attapur",
@@ -303,38 +279,6 @@
       "cat": "RECLINER",
       "price": "350.00",
       "status": "0"
-    },
-    "APNS|2495|20260808|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
-    "APNS|2495|20260808|CLASSIC": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "295.00",
-      "status": "2"
-    },
-    "APNS|2495|20260808|LOUNGES": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
-    "APNS|2560|20260808|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "1"
     },
     "APNS|2496|20260808|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -366,7 +310,7 @@
       "date": "20260808",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "APNS|2497|20260808|CLASSIC": {
       "venue": "Aparna Cinemas: Shamshabad",
