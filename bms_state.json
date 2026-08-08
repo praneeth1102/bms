@@ -6,7 +6,7 @@
       "date": "20260808",
       "cat": "SEMI RECLINER",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "PRHN|254610|20260808|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -22,7 +22,7 @@
       "date": "20260808",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "0"
+      "status": "2"
     },
     "ACAS|36259|20260808|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -70,6 +70,14 @@
       "date": "20260808",
       "cat": "GOLD",
       "price": "350.00",
+      "status": "0"
+    },
+    "AACN|30962|20260808|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "07:40 PM",
+      "date": "20260808",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
       "status": "1"
     },
     "AACN|30962|20260808|LOUNGES": {
@@ -77,14 +85,6 @@
       "time": "07:40 PM",
       "date": "20260808",
       "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "2"
-    },
-    "AACN|30962|20260808|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "07:40 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
     },
@@ -158,7 +158,7 @@
       "date": "20260808",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "CTNR|10775|20260808|VIP": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -182,7 +182,7 @@
       "date": "20260808",
       "cat": "PRIME",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "MMAH|58456|20260808|RECLINER": {
       "venue": "MovieMax: AMR, ECIL Secunderabad",
@@ -206,7 +206,7 @@
       "date": "20260808",
       "cat": "VIP",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "PVYH|23607|20260808|CLASSIC": {
       "venue": "PVR: Central Mall, Panjagutta",
