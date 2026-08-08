@@ -272,14 +272,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30967|20260809|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "07:40 PM",
-      "date": "20260809",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
     "AACN|30967|20260809|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "07:40 PM",
@@ -287,6 +279,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
+    },
+    "AACN|30967|20260809|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "07:40 PM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "1"
     },
     "AACN|31007|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -328,19 +328,19 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30968|20260809|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
-      "date": "20260809",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30968|20260809|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:35 PM",
       "date": "20260809",
       "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|30968|20260809|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:35 PM",
+      "date": "20260809",
+      "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
     },
@@ -614,6 +614,54 @@
       "date": "20260809",
       "cat": "CLASSIC",
       "price": "295.00",
+      "status": "3"
+    },
+    "CPCL|5309|20260809|EXECUTIVE": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPCL|5309|20260809|PREMIUM": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "PREMIUM",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPCL|5310|20260809|EXECUTIVE": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "01:55 PM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPCL|5310|20260809|PREMIUM": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "01:55 PM",
+      "date": "20260809",
+      "cat": "PREMIUM",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPCL|5311|20260809|EXECUTIVE": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "08:05 PM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPCL|5311|20260809|PREMIUM": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "08:05 PM",
+      "date": "20260809",
+      "cat": "PREMIUM",
+      "price": "230.00",
       "status": "3"
     },
     "PVUM|27914|20260809|CLASSIC": {
