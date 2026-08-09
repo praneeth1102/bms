@@ -6,7 +6,7 @@
       "date": "20260809",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "PRHN|254611|20260809|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -22,7 +22,7 @@
       "date": "20260809",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "0"
+      "status": "2"
     },
     "ACAS|36281|20260809|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -118,7 +118,7 @@
       "date": "20260809",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AACN|30965|20260809|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -166,7 +166,7 @@
       "date": "20260809",
       "cat": "LOUNGES",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AACN|30966|20260809|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -320,30 +320,6 @@
       "price": "354.00",
       "status": "0"
     },
-    "ILKS|9292|20260809|RECLINER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260809",
-      "cat": "RECLINER ROWS",
-      "price": "354.00",
-      "status": "1"
-    },
-    "ILKS|9292|20260809|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260809",
-      "cat": "CLASSIC ROWS",
-      "price": "295.00",
-      "status": "2"
-    },
-    "ILKS|9292|20260809|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260809",
-      "cat": "PRIME ROWS",
-      "price": "295.00",
-      "status": "1"
-    },
     "CMMA|5926|20260809|NORMAL": {
       "venue": "Cinepolis: Mantra Mall, Attapur",
       "time": "07:55 PM",
@@ -360,6 +336,14 @@
       "price": "350.00",
       "status": "1"
     },
+    "PVYH|23652|20260809|CLASSIC": {
+      "venue": "PVR: Central Mall, Panjagutta",
+      "time": "07:35 PM",
+      "date": "20260809",
+      "cat": "CLASSIC",
+      "price": "250.00",
+      "status": "2"
+    },
     "MTHY|78419|20260809|RECLINER": {
       "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
       "time": "02:05 PM",
@@ -375,14 +359,6 @@
       "cat": "RECLINER",
       "price": "350.00",
       "status": "1"
-    },
-    "PVYH|23652|20260809|CLASSIC": {
-      "venue": "PVR: Central Mall, Panjagutta",
-      "time": "07:35 PM",
-      "date": "20260809",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "2"
     },
     "APNS|2499|20260809|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -510,7 +486,7 @@
       "date": "20260809",
       "cat": "PREMIUM",
       "price": "230.00",
-      "status": "2"
+      "status": "1"
     },
     "CPCL|5311|20260809|EXECUTIVE": {
       "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
