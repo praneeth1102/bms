@@ -14,7 +14,7 @@
       "date": "20260809",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "0"
+      "status": "3"
     },
     "ACAS|36284|20260809|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -32,22 +32,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "CPCL|5389|20260809|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "10:10 PM",
-      "date": "20260809",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CPCL|5389|20260809|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "10:10 PM",
-      "date": "20260809",
-      "cat": "PREMIUM",
-      "price": "230.00",
-      "status": "3"
-    },
     "AACN|30968|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:35 PM",
@@ -56,14 +40,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30968|20260809|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
-      "date": "20260809",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30968|20260809|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:35 PM",
@@ -71,6 +47,14 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
+    },
+    "AACN|30968|20260809|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:35 PM",
+      "date": "20260809",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
     },
     "AACN|31099|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
