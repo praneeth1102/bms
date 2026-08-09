@@ -32,13 +32,21 @@
       "price": "295.00",
       "status": "3"
     },
-    "MTHY|78421|20260809|RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "08:15 PM",
+    "CPCL|5389|20260809|EXECUTIVE": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "10:10 PM",
       "date": "20260809",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "0"
+      "cat": "EXECUTIVE",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPCL|5389|20260809|PREMIUM": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "10:10 PM",
+      "date": "20260809",
+      "cat": "PREMIUM",
+      "price": "230.00",
+      "status": "3"
     },
     "AACN|30968|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -102,22 +110,6 @@
       "date": "20260809",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
-    },
-    "CPCL|5389|20260809|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "10:10 PM",
-      "date": "20260809",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CPCL|5389|20260809|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "10:10 PM",
-      "date": "20260809",
-      "cat": "PREMIUM",
-      "price": "230.00",
       "status": "3"
     }
   },
