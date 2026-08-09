@@ -152,14 +152,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|31150|20260810|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260810",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
     "AACN|31150|20260810|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "11:00 AM",
@@ -167,6 +159,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
+    },
+    "AACN|31150|20260810|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:00 AM",
+      "date": "20260810",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "1"
     },
     "AACN|31168|20260810|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -192,14 +192,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|31151|20260810|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:50 PM",
-      "date": "20260810",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "2"
-    },
     "AACN|31151|20260810|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:50 PM",
@@ -207,6 +199,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
+    },
+    "AACN|31151|20260810|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:50 PM",
+      "date": "20260810",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "2"
     },
     "AACN|31169|20260810|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -232,19 +232,19 @@
       "price": "350.00",
       "status": "1"
     },
-    "AACN|31152|20260810|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:50 PM",
-      "date": "20260810",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|31152|20260810|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:50 PM",
       "date": "20260810",
       "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|31152|20260810|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:50 PM",
+      "date": "20260810",
+      "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
     },
@@ -360,14 +360,6 @@
       "price": "354.00",
       "status": "0"
     },
-    "ILKS|9341|20260810|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260810",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "ILKS|9341|20260810|PRIME ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "11:10 AM",
@@ -375,6 +367,14 @@
       "cat": "PRIME ROWS",
       "price": "250.00",
       "status": "1"
+    },
+    "ILKS|9341|20260810|CLASSIC ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "11:10 AM",
+      "date": "20260810",
+      "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
     },
     "PNNG|38793|20260810|RECLINER": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
@@ -598,7 +598,7 @@
       "date": "20260810",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "APNS|2625|20260810|CLASSIC": {
       "venue": "Aparna Cinemas: Shamshabad",
