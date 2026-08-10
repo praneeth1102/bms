@@ -1,44 +1,12 @@
 {
   "shows": {
-    "AMBH|116343|20260810|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:30 PM",
-      "date": "20260810",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "1"
-    },
-    "ACAS|36337|20260810|RECLINER": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:50 PM",
-      "date": "20260810",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "1"
-    },
-    "ACAS|36337|20260810|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:50 PM",
-      "date": "20260810",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ACAS|36337|20260810|LOUNGERS": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:50 PM",
-      "date": "20260810",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "ACAS|36338|20260810|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "07:40 PM",
       "date": "20260810",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "ACAS|36338|20260810|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -80,30 +48,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "MMAH|58536|20260810|CLASSIC": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:45 PM",
-      "date": "20260810",
-      "cat": "CLASSIC",
-      "price": "200.00",
-      "status": "3"
-    },
-    "MMAH|58536|20260810|PRIME": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:45 PM",
-      "date": "20260810",
-      "cat": "PRIME",
-      "price": "250.00",
-      "status": "3"
-    },
-    "MMAH|58536|20260810|RECLINER": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:45 PM",
-      "date": "20260810",
-      "cat": "RECLINER",
-      "price": "354.00",
-      "status": "1"
-    },
     "AACN|31169|20260810|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "07:50 PM",
@@ -128,6 +72,14 @@
       "price": "350.00",
       "status": "0"
     },
+    "AACN|31152|20260810|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:50 PM",
+      "date": "20260810",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
+    },
     "AACN|31152|20260810|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:50 PM",
@@ -136,13 +88,29 @@
       "price": "295.00",
       "status": "3"
     },
-    "AACN|31152|20260810|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:50 PM",
+    "MMAH|58536|20260810|CLASSIC": {
+      "venue": "MovieMax: AMR, ECIL Secunderabad",
+      "time": "06:45 PM",
       "date": "20260810",
-      "cat": "LOUNGES",
-      "price": "295.00",
+      "cat": "CLASSIC",
+      "price": "200.00",
       "status": "3"
+    },
+    "MMAH|58536|20260810|PRIME": {
+      "venue": "MovieMax: AMR, ECIL Secunderabad",
+      "time": "06:45 PM",
+      "date": "20260810",
+      "cat": "PRIME",
+      "price": "250.00",
+      "status": "3"
+    },
+    "MMAH|58536|20260810|RECLINER": {
+      "venue": "MovieMax: AMR, ECIL Secunderabad",
+      "time": "06:45 PM",
+      "date": "20260810",
+      "cat": "RECLINER",
+      "price": "354.00",
+      "status": "1"
     },
     "CTNR|10789|20260810|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -158,7 +126,7 @@
       "date": "20260810",
       "cat": "VIP",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "CMMA|5956|20260810|NORMAL": {
       "venue": "Cinepolis: Mantra Mall, Attapur",
@@ -174,30 +142,6 @@
       "date": "20260810",
       "cat": "VIP",
       "price": "350.00",
-      "status": "2"
-    },
-    "PIMH|33210|20260810|RECLINER": {
-      "venue": "PVR: Irrum Manzil, Hyderabad",
-      "time": "04:25 PM",
-      "date": "20260810",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "0"
-    },
-    "PIMH|33210|20260810|CLASSIC": {
-      "venue": "PVR: Irrum Manzil, Hyderabad",
-      "time": "04:25 PM",
-      "date": "20260810",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "3"
-    },
-    "PVYH|23682|20260810|CLASSIC": {
-      "venue": "PVR: Central Mall, Panjagutta",
-      "time": "07:35 PM",
-      "date": "20260810",
-      "cat": "CLASSIC",
-      "price": "250.00",
       "status": "3"
     },
     "MTHY|78454|20260810|RECLINER": {
@@ -207,6 +151,14 @@
       "cat": "RECLINER",
       "price": "350.00",
       "status": "2"
+    },
+    "PVYH|23682|20260810|CLASSIC": {
+      "venue": "PVR: Central Mall, Panjagutta",
+      "time": "07:35 PM",
+      "date": "20260810",
+      "cat": "CLASSIC",
+      "price": "250.00",
+      "status": "3"
     },
     "APNS|2611|20260810|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
