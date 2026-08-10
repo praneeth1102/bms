@@ -192,19 +192,19 @@
       "price": "350.00",
       "status": "1"
     },
-    "AACN|31157|20260811|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:50 PM",
-      "date": "20260811",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|31157|20260811|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:50 PM",
       "date": "20260811",
       "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|31157|20260811|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:50 PM",
+      "date": "20260811",
+      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
@@ -366,7 +366,7 @@
       "date": "20260811",
       "cat": "PRIME ROWS",
       "price": "149.00",
-      "status": "2"
+      "status": "3"
     },
     "IGMH|85238|20260811|ROYAL": {
       "venue": "INOX: GSM Mall, Hyderabad",
@@ -374,7 +374,7 @@
       "date": "20260811",
       "cat": "ROYAL",
       "price": "249.00",
-      "status": "2"
+      "status": "3"
     },
     "IGMH|85238|20260811|EXECUTIVE": {
       "venue": "INOX: GSM Mall, Hyderabad",
