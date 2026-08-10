@@ -6,7 +6,7 @@
       "date": "20260810",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "1"
+      "status": "2"
     },
     "ACAS|36338|20260810|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -30,7 +30,7 @@
       "date": "20260810",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "ACAS|36339|20260810|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -72,14 +72,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|31152|20260810|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:50 PM",
-      "date": "20260810",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|31152|20260810|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:50 PM",
@@ -88,29 +80,29 @@
       "price": "295.00",
       "status": "3"
     },
-    "MMAH|58536|20260810|CLASSIC": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:45 PM",
+    "AACN|31152|20260810|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:50 PM",
       "date": "20260810",
-      "cat": "CLASSIC",
-      "price": "200.00",
+      "cat": "LOUNGES",
+      "price": "295.00",
       "status": "3"
     },
-    "MMAH|58536|20260810|PRIME": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:45 PM",
+    "CMMA|5956|20260810|NORMAL": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "08:10 PM",
       "date": "20260810",
-      "cat": "PRIME",
-      "price": "250.00",
+      "cat": "NORMAL",
+      "price": "295.00",
       "status": "3"
     },
-    "MMAH|58536|20260810|RECLINER": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:45 PM",
+    "CMMA|5956|20260810|VIP": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "08:10 PM",
       "date": "20260810",
-      "cat": "RECLINER",
-      "price": "354.00",
-      "status": "1"
+      "cat": "VIP",
+      "price": "350.00",
+      "status": "2"
     },
     "CTNR|10789|20260810|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -128,36 +120,28 @@
       "price": "350.00",
       "status": "1"
     },
-    "CMMA|5956|20260810|NORMAL": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "08:10 PM",
-      "date": "20260810",
-      "cat": "NORMAL",
-      "price": "295.00",
-      "status": "3"
-    },
-    "CMMA|5956|20260810|VIP": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "08:10 PM",
-      "date": "20260810",
-      "cat": "VIP",
-      "price": "350.00",
-      "status": "3"
-    },
-    "MTHY|78454|20260810|RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "07:00 PM",
-      "date": "20260810",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "2"
-    },
     "PVYH|23682|20260810|CLASSIC": {
       "venue": "PVR: Central Mall, Panjagutta",
       "time": "07:35 PM",
       "date": "20260810",
       "cat": "CLASSIC",
       "price": "250.00",
+      "status": "3"
+    },
+    "CPCL|5344|20260810|EXECUTIVE": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "09:30 PM",
+      "date": "20260810",
+      "cat": "EXECUTIVE",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPCL|5344|20260810|PREMIUM": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "09:30 PM",
+      "date": "20260810",
+      "cat": "PREMIUM",
+      "price": "230.00",
       "status": "3"
     },
     "APNS|2611|20260810|GOLD": {
@@ -198,38 +182,6 @@
       "date": "20260810",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
-    },
-    "CPCL|5336|20260810|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "06:30 PM",
-      "date": "20260810",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CPCL|5336|20260810|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "06:30 PM",
-      "date": "20260810",
-      "cat": "PREMIUM",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CPCL|5344|20260810|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "09:30 PM",
-      "date": "20260810",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CPCL|5344|20260810|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "09:30 PM",
-      "date": "20260810",
-      "cat": "PREMIUM",
-      "price": "230.00",
       "status": "3"
     }
   },
