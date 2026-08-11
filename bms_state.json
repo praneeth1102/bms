@@ -128,19 +128,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "AACN|31160|20260812|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260812",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|31160|20260812|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "11:00 AM",
       "date": "20260812",
       "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|31160|20260812|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:00 AM",
+      "date": "20260812",
+      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
@@ -168,19 +168,19 @@
       "price": "350.00",
       "status": "2"
     },
-    "AACN|31162|20260812|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:50 PM",
-      "date": "20260812",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|31162|20260812|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:50 PM",
       "date": "20260812",
       "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|31162|20260812|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:50 PM",
+      "date": "20260812",
+      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
@@ -208,19 +208,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "AACN|31164|20260812|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:50 PM",
-      "date": "20260812",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|31164|20260812|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:50 PM",
       "date": "20260812",
       "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|31164|20260812|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:50 PM",
+      "date": "20260812",
+      "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
     },
@@ -320,19 +320,19 @@
       "price": "354.00",
       "status": "3"
     },
-    "ILKS|9366|20260812|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260812",
-      "cat": "PRIME ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "ILKS|9366|20260812|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "11:10 AM",
       "date": "20260812",
       "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "ILKS|9366|20260812|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "11:10 AM",
+      "date": "20260812",
+      "cat": "PRIME ROWS",
       "price": "250.00",
       "status": "3"
     },
