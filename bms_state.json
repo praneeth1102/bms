@@ -1,53 +1,5 @@
 {
   "shows": {
-    "PRHN|254740|20260812|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "10:55 PM",
-      "date": "20260812",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AACN|31164|20260812|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:50 PM",
-      "date": "20260812",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AACN|31164|20260812|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:50 PM",
-      "date": "20260812",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AACN|31164|20260812|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:50 PM",
-      "date": "20260812",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
-    "CPCL|5384|20260812|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "09:30 PM",
-      "date": "20260812",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CPCL|5384|20260812|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "09:30 PM",
-      "date": "20260812",
-      "cat": "PREMIUM",
-      "price": "230.00",
-      "status": "3"
-    },
     "APNS|2686|20260812|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
       "time": "10:50 PM",
