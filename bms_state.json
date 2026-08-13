@@ -166,7 +166,7 @@
       "date": "20260813",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFS|44196|20260813|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -184,19 +184,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "AACN|31214|20260813|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260813",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|31214|20260813|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "11:00 AM",
       "date": "20260813",
       "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|31214|20260813|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:00 AM",
+      "date": "20260813",
+      "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
     },
@@ -390,7 +390,7 @@
       "date": "20260813",
       "cat": "ROYAL",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "IGMH|85272|20260813|EXECUTIVE": {
       "venue": "INOX: GSM Mall, Hyderabad",
