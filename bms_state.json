@@ -328,19 +328,19 @@
       "price": "354.00",
       "status": "2"
     },
-    "ILKS|9456|20260813|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:00 AM",
-      "date": "20260813",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "ILKS|9456|20260813|PRIME ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:00 AM",
       "date": "20260813",
       "cat": "PRIME ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "ILKS|9456|20260813|CLASSIC ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:00 AM",
+      "date": "20260813",
+      "cat": "CLASSIC ROWS",
       "price": "250.00",
       "status": "3"
     },
