@@ -1,36 +1,12 @@
 {
   "shows": {
-    "AMBH|116568|20260814|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:50 PM",
-      "date": "20260814",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|116568|20260814|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:50 PM",
-      "date": "20260814",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116568|20260814|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:50 PM",
-      "date": "20260814",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116359|20260814|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "04:25 PM",
       "date": "20260814",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|116359|20260814|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -78,19 +54,11 @@
       "date": "20260814",
       "cat": "PLATINUM",
       "price": "300.00",
-      "status": "0"
+      "status": "3"
     },
     "ACAS|36425|20260814|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "04:25 PM",
-      "date": "20260814",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TVHY|47848|20260814|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "01:40 PM",
       "date": "20260814",
       "cat": "GOLD",
       "price": "250.00",
@@ -102,22 +70,6 @@
       "date": "20260814",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "3"
-    },
-    "AACN|31381|20260814|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "01:35 PM",
-      "date": "20260814",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
-    },
-    "AACN|31381|20260814|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "01:35 PM",
-      "date": "20260814",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
       "status": "3"
     },
     "AACN|31271|20260814|GOLD": {
@@ -134,7 +86,7 @@
       "date": "20260814",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "PIIC|32253|20260814|ROYAL ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
