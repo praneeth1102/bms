@@ -128,6 +128,22 @@
       "price": "350.00",
       "status": "3"
     },
+    "AACN|31381|20260814|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "01:35 PM",
+      "date": "20260814",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|31381|20260814|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "01:35 PM",
+      "date": "20260814",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
     "AACN|31271|20260814|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "08:20 PM",
@@ -166,7 +182,7 @@
       "date": "20260814",
       "cat": "CLASSIC",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "PNNG|38968|20260814|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
