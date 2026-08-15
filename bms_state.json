@@ -62,7 +62,7 @@
       "date": "20260815",
       "cat": "CLASSIC",
       "price": "250.00",
-      "status": "0"
+      "status": "1"
     },
     "APNS|2792|20260815|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -70,7 +70,7 @@
       "date": "20260815",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "2"
+      "status": "0"
     }
   },
   "dates": {
