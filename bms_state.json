@@ -94,7 +94,7 @@
       "date": "20260815",
       "cat": "GOLD UPPER",
       "price": "250.00",
-      "status": "2"
+      "status": "1"
     },
     "TVHY|47906|20260815|GOLD LOWER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -118,7 +118,7 @@
       "date": "20260815",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "AACN|31337|20260815|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -150,15 +150,7 @@
       "date": "20260815",
       "cat": "CLASSIC",
       "price": "250.00",
-      "status": "1"
-    },
-    "APNS|2789|20260815|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:20 AM",
-      "date": "20260815",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
+      "status": "0"
     },
     "APNS|2791|20260815|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
