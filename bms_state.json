@@ -199,30 +199,6 @@
       "cat": "CLASSIC",
       "price": "250.00",
       "status": "2"
-    },
-    "APNS|2789|20260815|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:20 AM",
-      "date": "20260815",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
-    "APNS|2791|20260815|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "04:45 PM",
-      "date": "20260815",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
-    },
-    "APNS|2792|20260815|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "07:40 PM",
-      "date": "20260815",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
     }
   },
   "dates": {
