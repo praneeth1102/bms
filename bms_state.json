@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116585|20260816|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:25 PM",
-      "date": "20260816",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|116585|20260816|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:25 PM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "0"
-    },
-    "AMBH|116585|20260816|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:25 PM",
-      "date": "20260816",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "0"
-    },
     "AMBH|116582|20260816|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "10:50 PM",
@@ -48,30 +24,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "ACAS|36534|20260816|PLATINUM": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:35 PM",
-      "date": "20260816",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "0"
-    },
-    "ACAS|36534|20260816|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:35 PM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "1"
-    },
-    "TVHY|47894|20260816|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "08:00 PM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
     "AACN|31287|20260816|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "08:20 PM",
@@ -87,6 +39,14 @@
       "cat": "GOLD",
       "price": "350.00",
       "status": "2"
+    },
+    "TVHY|47894|20260816|GOLD": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "08:00 PM",
+      "date": "20260816",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
     },
     "PIIC|32283|20260816|ROYAL ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
@@ -110,7 +70,7 @@
       "date": "20260816",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "APNS|2823|20260816|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -118,7 +78,7 @@
       "date": "20260816",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
