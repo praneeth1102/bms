@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116617|20260816|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "12:10 PM",
-      "date": "20260816",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|116617|20260816|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "12:10 PM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AMBH|116617|20260816|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "12:10 PM",
-      "date": "20260816",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "1"
-    },
     "AMBH|116585|20260816|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "04:25 PM",
@@ -46,7 +22,7 @@
       "date": "20260816",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "2"
+      "status": "0"
     },
     "AMBH|116582|20260816|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -94,7 +70,7 @@
       "date": "20260816",
       "cat": "GOLD UPPER",
       "price": "250.00",
-      "status": "2"
+      "status": "1"
     },
     "TVHY|47907|20260816|GOLD LOWER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -126,7 +102,7 @@
       "date": "20260816",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PIIC|32283|20260816|ROYAL ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
@@ -134,7 +110,7 @@
       "date": "20260816",
       "cat": "ROYAL ROWS",
       "price": "600.00",
-      "status": "2"
+      "status": "1"
     },
     "PNNG|39025|20260816|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
