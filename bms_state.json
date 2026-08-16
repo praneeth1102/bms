@@ -6,7 +6,7 @@
       "date": "20260816",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|116585|20260816|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -14,7 +14,7 @@
       "date": "20260816",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|116585|20260816|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -30,7 +30,7 @@
       "date": "20260816",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|116582|20260816|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -54,7 +54,7 @@
       "date": "20260816",
       "cat": "PLATINUM",
       "price": "300.00",
-      "status": "3"
+      "status": "0"
     },
     "ACAS|36534|20260816|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -93,8 +93,8 @@
       "time": "10:30 PM",
       "date": "20260816",
       "cat": "ROYAL ROWS",
-      "price": "600.00",
-      "status": "1"
+      "price": "650.00",
+      "status": "2"
     },
     "PNNG|39027|20260816|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
