@@ -70,7 +70,7 @@
       "date": "20260816",
       "cat": "GOLD UPPER",
       "price": "250.00",
-      "status": "2"
+      "status": "1"
     },
     "TVHY|47907|20260816|GOLD LOWER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -110,15 +110,7 @@
       "date": "20260816",
       "cat": "ROYAL ROWS",
       "price": "600.00",
-      "status": "1"
-    },
-    "PNNG|39025|20260816|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "01:00 PM",
-      "date": "20260816",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "0"
+      "status": "2"
     },
     "PNNG|39027|20260816|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
