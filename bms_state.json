@@ -38,7 +38,7 @@
       "date": "20260816",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|116585|20260816|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -71,22 +71,6 @@
       "cat": "LOUNGERS",
       "price": "295.00",
       "status": "3"
-    },
-    "ACAS|36532|20260816|PLATINUM": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "10:35 AM",
-      "date": "20260816",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "0"
-    },
-    "ACAS|36532|20260816|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "10:35 AM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "2"
     },
     "ACAS|36534|20260816|PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -128,14 +112,6 @@
       "price": "250.00",
       "status": "3"
     },
-    "AACN|31312|20260816|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:10 AM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
     "AACN|31287|20260816|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "08:20 PM",
@@ -166,7 +142,7 @@
       "date": "20260816",
       "cat": "CLASSIC",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "PNNG|39027|20260816|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
@@ -174,14 +150,6 @@
       "date": "20260816",
       "cat": "CLASSIC",
       "price": "250.00",
-      "status": "2"
-    },
-    "APNS|2820|20260816|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:20 AM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "1"
     },
     "APNS|2822|20260816|GOLD": {
