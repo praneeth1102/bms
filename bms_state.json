@@ -55,22 +55,6 @@
       "cat": "ROYAL ROWS",
       "price": "650.00",
       "status": "1"
-    },
-    "PNNG|39027|20260816|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "07:00 PM",
-      "date": "20260816",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "1"
-    },
-    "APNS|2823|20260816|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "07:40 PM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "1"
     }
   },
   "dates": {
