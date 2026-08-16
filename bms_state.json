@@ -14,7 +14,7 @@
       "date": "20260816",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|116582|20260816|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -24,14 +24,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "AACN|31287|20260816|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "08:20 PM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
     "AACN|31339|20260816|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "11:15 PM",
@@ -39,14 +31,6 @@
       "cat": "GOLD",
       "price": "350.00",
       "status": "1"
-    },
-    "TVHY|47894|20260816|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "08:00 PM",
-      "date": "20260816",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "2"
     },
     "PIIC|32283|20260816|ROYAL ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
