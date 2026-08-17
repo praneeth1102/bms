@@ -64,21 +64,13 @@
       "price": "250.00",
       "status": "3"
     },
-    "AACN|31435|20260817|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "05:25 PM",
-      "date": "20260817",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
     "AACN|31436|20260817|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "08:20 PM",
       "date": "20260817",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "AACN|31437|20260817|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -102,7 +94,7 @@
       "date": "20260817",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
+      "status": "2"
     },
     "APNS|2995|20260817|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
