@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116652|20260817|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:20 PM",
-      "date": "20260817",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "1"
-    },
-    "AMBH|116652|20260817|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:20 PM",
-      "date": "20260817",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116652|20260817|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:20 PM",
-      "date": "20260817",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116680|20260817|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "07:40 PM",
@@ -80,17 +56,9 @@
       "price": "295.00",
       "status": "3"
     },
-    "ACAS|36607|20260817|PLATINUM": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:45 PM",
-      "date": "20260817",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "3"
-    },
-    "ACAS|36607|20260817|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:45 PM",
+    "TVHY|47923|20260817|GOLD": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "07:30 PM",
       "date": "20260817",
       "cat": "GOLD",
       "price": "250.00",
@@ -128,28 +96,12 @@
       "price": "650.00",
       "status": "2"
     },
-    "TVHY|47923|20260817|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "07:30 PM",
-      "date": "20260817",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
     "PNNG|39063|20260817|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "07:00 PM",
       "date": "20260817",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "2"
-    },
-    "APNS|2994|20260817|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "05:25 PM",
-      "date": "20260817",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "3"
     },
     "APNS|2995|20260817|GOLD": {
