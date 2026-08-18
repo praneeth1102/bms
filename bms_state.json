@@ -6,7 +6,7 @@
       "date": "20260818",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|116705|20260818|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -55,21 +55,13 @@
       "cat": "CLASSIC",
       "price": "105.00",
       "status": "3"
-    },
-    "APNS|3001|20260818|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:15 PM",
-      "date": "20260818",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
     }
   },
   "dates": {
     "20260818": "BOOKABLE",
     "20260819": "AVAILABLE",
     "20260820": "AVAILABLE",
-    "20260821": "NOT_OPEN",
+    "20260821": "AVAILABLE",
     "20260822": "NOT_OPEN",
     "20260823": "NOT_OPEN",
     "20260824": "NOT_OPEN"
