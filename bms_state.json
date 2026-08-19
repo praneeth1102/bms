@@ -6,7 +6,7 @@
       "date": "20260819",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|116753|20260819|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -86,7 +86,7 @@
       "date": "20260819",
       "cat": "ROYAL ROWS",
       "price": "600.00",
-      "status": "2"
+      "status": "3"
     },
     "PNNG|39103|20260819|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
