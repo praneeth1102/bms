@@ -14,7 +14,7 @@
       "date": "20260819",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|116769|20260819|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -54,14 +54,6 @@
       "date": "20260819",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
-    },
-    "APNS|3006|20260819|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:15 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "3"
     }
   },
