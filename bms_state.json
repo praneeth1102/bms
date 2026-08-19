@@ -1,36 +1,12 @@
 {
   "shows": {
-    "AMBH|116766|20260819|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:40 PM",
-      "date": "20260819",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "3"
-    },
-    "AMBH|116766|20260819|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:40 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116766|20260819|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:40 PM",
-      "date": "20260819",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116767|20260819|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "04:35 PM",
       "date": "20260819",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "2"
     },
     "AMBH|116767|20260819|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -150,22 +126,6 @@
       "date": "20260819",
       "cat": "ROYAL ROWS",
       "price": "600.00",
-      "status": "3"
-    },
-    "TVHY|47951|20260819|GOLD UPPER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "02:00 PM",
-      "date": "20260819",
-      "cat": "GOLD UPPER",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TVHY|47951|20260819|GOLD LOWER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "02:00 PM",
-      "date": "20260819",
-      "cat": "GOLD LOWER",
-      "price": "250.00",
       "status": "3"
     },
     "TVHY|47963|20260819|GOLD": {
