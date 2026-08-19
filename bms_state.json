@@ -1,53 +1,5 @@
 {
   "shows": {
-    "AMBH|116769|20260819|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:35 PM",
-      "date": "20260819",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|116769|20260819|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:35 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "2"
-    },
-    "AMBH|116769|20260819|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:35 PM",
-      "date": "20260819",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "PRHN|255003|20260819|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:00 PM",
-      "date": "20260819",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AACN|31448|20260819|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:15 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
-    "PIIC|32344|20260819|ROYAL ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "10:30 PM",
-      "date": "20260819",
-      "cat": "ROYAL ROWS",
-      "price": "650.00",
-      "status": "2"
-    },
     "PNNG|39180|20260819|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "11:00 PM",
