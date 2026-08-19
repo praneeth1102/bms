@@ -1,21 +1,269 @@
 {
   "shows": {
-    "PNNG|39180|20260819|CLASSIC": {
+    "AMBH|116837|20260820|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:25 AM",
+      "date": "20260820",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AMBH|116837|20260820|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:25 AM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116837|20260820|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:25 AM",
+      "date": "20260820",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116847|20260820|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "01:05 PM",
+      "date": "20260820",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|116847|20260820|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "01:05 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116847|20260820|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "01:05 PM",
+      "date": "20260820",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116838|20260820|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:35 PM",
+      "date": "20260820",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|116838|20260820|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:35 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116838|20260820|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:35 PM",
+      "date": "20260820",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116826|20260820|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "07:35 PM",
+      "date": "20260820",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|116826|20260820|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "07:35 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116826|20260820|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "07:35 PM",
+      "date": "20260820",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116840|20260820|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:45 PM",
+      "date": "20260820",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|116840|20260820|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:45 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116840|20260820|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:45 PM",
+      "date": "20260820",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ACAS|36849|20260820|PLATINUM": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "01:55 PM",
+      "date": "20260820",
+      "cat": "PLATINUM",
+      "price": "300.00",
+      "status": "0"
+    },
+    "ACAS|36849|20260820|GOLD": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "01:55 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TVHY|47977|20260820|GOLD UPPER": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "02:00 PM",
+      "date": "20260820",
+      "cat": "GOLD UPPER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TVHY|47977|20260820|GOLD LOWER": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "02:00 PM",
+      "date": "20260820",
+      "cat": "GOLD LOWER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TVHY|47989|20260820|GOLD": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "07:30 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AACN|31449|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:10 AM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|31451|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:25 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|31452|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "08:20 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|31453|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:15 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PNNG|39190|20260820|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "11:00 PM",
-      "date": "20260819",
+      "time": "10:35 AM",
+      "date": "20260820",
       "cat": "CLASSIC",
       "price": "149.00",
+      "status": "3"
+    },
+    "PNNG|39191|20260820|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "01:35 PM",
+      "date": "20260820",
+      "cat": "CLASSIC",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PNNG|39192|20260820|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "07:00 PM",
+      "date": "20260820",
+      "cat": "CLASSIC",
+      "price": "149.00",
+      "status": "3"
+    },
+    "APNS|3007|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "11:10 AM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "APNS|3027|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "02:15 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "APNS|3009|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "05:25 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "APNS|3010|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "08:15 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "APNS|3011|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "11:15 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260819": "BOOKABLE",
-    "20260820": "AVAILABLE",
+    "20260820": "BOOKABLE",
     "20260821": "AVAILABLE",
     "20260822": "AVAILABLE",
     "20260823": "AVAILABLE",
     "20260824": "NOT_OPEN",
-    "20260825": "NOT_OPEN"
+    "20260825": "NOT_OPEN",
+    "20260826": "NOT_OPEN"
   }
 }
