@@ -6,7 +6,7 @@
       "date": "20260819",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|116767|20260819|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -80,17 +80,9 @@
       "price": "295.00",
       "status": "3"
     },
-    "ACAS|36663|20260819|PLATINUM": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:20 PM",
-      "date": "20260819",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "3"
-    },
-    "ACAS|36663|20260819|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:20 PM",
+    "TVHY|47963|20260819|GOLD": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "07:30 PM",
       "date": "20260819",
       "cat": "GOLD",
       "price": "250.00",
@@ -127,14 +119,6 @@
       "cat": "ROYAL ROWS",
       "price": "600.00",
       "status": "2"
-    },
-    "TVHY|47963|20260819|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "07:30 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
     },
     "PNNG|39103|20260819|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
