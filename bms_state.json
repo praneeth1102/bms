@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116753|20260819|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "07:40 PM",
-      "date": "20260819",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "1"
-    },
-    "AMBH|116753|20260819|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "07:40 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116753|20260819|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "07:40 PM",
-      "date": "20260819",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116769|20260819|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "10:35 PM",
@@ -56,22 +32,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "TVHY|47963|20260819|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "07:30 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "AACN|31447|20260819|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "08:20 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
     "AACN|31448|20260819|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "11:15 PM",
@@ -86,15 +46,7 @@
       "date": "20260819",
       "cat": "ROYAL ROWS",
       "price": "600.00",
-      "status": "3"
-    },
-    "PNNG|39103|20260819|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "07:00 PM",
-      "date": "20260819",
-      "cat": "CLASSIC",
-      "price": "149.00",
-      "status": "1"
+      "status": "2"
     },
     "PNNG|39180|20260819|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
@@ -102,14 +54,6 @@
       "date": "20260819",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
-    },
-    "APNS|3005|20260819|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "08:15 PM",
-      "date": "20260819",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "3"
     },
     "APNS|3006|20260819|GOLD": {
