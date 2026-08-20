@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116847|20260820|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:05 PM",
-      "date": "20260820",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "1"
-    },
-    "AMBH|116847|20260820|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:05 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116847|20260820|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:05 PM",
-      "date": "20260820",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116838|20260820|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "04:35 PM",
@@ -96,20 +72,28 @@
       "price": "295.00",
       "status": "3"
     },
-    "ACAS|36849|20260820|PLATINUM": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "01:55 PM",
-      "date": "20260820",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "3"
-    },
-    "ACAS|36849|20260820|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "01:55 PM",
+    "AACN|31451|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:25 PM",
       "date": "20260820",
       "cat": "GOLD",
-      "price": "250.00",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|31452|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "08:20 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|31453|20260820|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:15 PM",
+      "date": "20260820",
+      "cat": "GOLD",
+      "price": "350.00",
       "status": "3"
     },
     "TVHY|47977|20260820|GOLD UPPER": {
@@ -134,30 +118,6 @@
       "date": "20260820",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "3"
-    },
-    "AACN|31451|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "05:25 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
-    "AACN|31452|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "08:20 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
-    "AACN|31453|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:15 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "3"
     },
     "PNNG|39191|20260820|CLASSIC": {
