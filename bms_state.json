@@ -6,7 +6,7 @@
       "date": "20260820",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|116837|20260820|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -126,7 +126,7 @@
       "date": "20260820",
       "cat": "PLATINUM",
       "price": "300.00",
-      "status": "0"
+      "status": "3"
     },
     "ACAS|36849|20260820|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
