@@ -6,7 +6,7 @@
       "date": "20260820",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "3"
     },
     "AMBH|116838|20260820|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -96,36 +96,12 @@
       "price": "350.00",
       "status": "3"
     },
-    "TVHY|47977|20260820|GOLD UPPER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "02:00 PM",
-      "date": "20260820",
-      "cat": "GOLD UPPER",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TVHY|47977|20260820|GOLD LOWER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "02:00 PM",
-      "date": "20260820",
-      "cat": "GOLD LOWER",
-      "price": "250.00",
-      "status": "3"
-    },
     "TVHY|47989|20260820|GOLD": {
       "venue": "Tivoli Cinemas: Secunderabad",
       "time": "07:30 PM",
       "date": "20260820",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "3"
-    },
-    "PNNG|39191|20260820|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "01:35 PM",
-      "date": "20260820",
-      "cat": "CLASSIC",
-      "price": "149.00",
       "status": "3"
     },
     "PNNG|39192|20260820|CLASSIC": {
@@ -135,14 +111,6 @@
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "2"
-    },
-    "APNS|3027|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "02:15 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
     },
     "APNS|3009|20260820|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
