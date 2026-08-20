@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116838|20260820|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:35 PM",
-      "date": "20260820",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "1"
-    },
-    "AMBH|116838|20260820|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:35 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116838|20260820|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:35 PM",
-      "date": "20260820",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116826|20260820|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "07:35 PM",
@@ -78,7 +54,7 @@
       "date": "20260820",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "AACN|31452|20260820|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
