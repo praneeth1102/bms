@@ -6,7 +6,7 @@
       "date": "20260820",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "2"
     },
     "AMBH|116826|20260820|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -48,14 +48,6 @@
       "price": "295.00",
       "status": "3"
     },
-    "AACN|31451|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "05:25 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
-    },
     "AACN|31452|20260820|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "08:20 PM",
@@ -87,14 +79,6 @@
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "2"
-    },
-    "APNS|3009|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "05:25 PM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
     },
     "APNS|3010|20260820|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
