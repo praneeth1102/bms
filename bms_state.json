@@ -1,36 +1,12 @@
 {
   "shows": {
-    "AMBH|116837|20260820|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:25 AM",
-      "date": "20260820",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "2"
-    },
-    "AMBH|116837|20260820|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:25 AM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116837|20260820|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:25 AM",
-      "date": "20260820",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116847|20260820|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "01:05 PM",
       "date": "20260820",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|116847|20260820|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -160,14 +136,6 @@
       "price": "250.00",
       "status": "3"
     },
-    "AACN|31449|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:10 AM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
     "AACN|31451|20260820|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "05:25 PM",
@@ -192,14 +160,6 @@
       "price": "350.00",
       "status": "3"
     },
-    "PNNG|39190|20260820|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "10:35 AM",
-      "date": "20260820",
-      "cat": "CLASSIC",
-      "price": "149.00",
-      "status": "3"
-    },
     "PNNG|39191|20260820|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "01:35 PM",
@@ -214,14 +174,6 @@
       "date": "20260820",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
-    },
-    "APNS|3007|20260820|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:10 AM",
-      "date": "20260820",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "3"
     },
     "APNS|3027|20260820|GOLD": {
