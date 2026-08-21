@@ -62,7 +62,7 @@
       "date": "20260821",
       "cat": "PLATINUM",
       "price": "300.00",
-      "status": "0"
+      "status": "2"
     },
     "ACAS|36719|20260821|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -78,6 +78,22 @@
       "date": "20260821",
       "cat": "EXECUTIVE",
       "price": "200.00",
+      "status": "3"
+    },
+    "AACN|31675|20260821|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "09:00 AM",
+      "date": "20260821",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "AACN|31675|20260821|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "09:00 AM",
+      "date": "20260821",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
       "status": "3"
     },
     "AACN|31637|20260821|GOLD": {
@@ -184,19 +200,19 @@
       "price": "185.00",
       "status": "3"
     },
-    "IVNM|8687|20260821|PRIME ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260821",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
     "IVNM|8687|20260821|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "12:05 PM",
       "date": "20260821",
       "cat": "CLASSIC ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "IVNM|8687|20260821|PRIME ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "12:05 PM",
+      "date": "20260821",
+      "cat": "PRIME ROWS",
       "price": "140.00",
       "status": "3"
     }
