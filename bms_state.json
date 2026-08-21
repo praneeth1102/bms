@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116858|20260821|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:45 PM",
-      "date": "20260821",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "1"
-    },
-    "AMBH|116858|20260821|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:45 PM",
-      "date": "20260821",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|116858|20260821|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:45 PM",
-      "date": "20260821",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
     "AMBH|116881|20260821|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "10:10 PM",
@@ -46,7 +22,7 @@
       "date": "20260821",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "AACN|31640|20260821|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -54,7 +30,7 @@
       "date": "20260821",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "TVHY|48036|20260821|RECLINER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -93,7 +69,7 @@
     "20260821": "BOOKABLE",
     "20260822": "AVAILABLE",
     "20260823": "AVAILABLE",
-    "20260824": "NOT_OPEN",
+    "20260824": "AVAILABLE",
     "20260825": "NOT_OPEN",
     "20260826": "NOT_OPEN",
     "20260827": "NOT_OPEN"
