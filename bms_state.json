@@ -14,7 +14,7 @@
       "date": "20260822",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|116958|20260822|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -22,39 +22,7 @@
       "date": "20260822",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "2"
-    },
-    "AACN|31662|20260822|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "05:45 PM",
-      "date": "20260822",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "1"
-    },
-    "TVHY|48041|20260822|RECLINER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "05:00 PM",
-      "date": "20260822",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "1"
-    },
-    "TVHY|48041|20260822|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "05:00 PM",
-      "date": "20260822",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TVHY|48041|20260822|LOUNGERS": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "05:00 PM",
-      "date": "20260822",
-      "cat": "LOUNGERS",
-      "price": "250.00",
-      "status": "3"
     },
     "APNS|3144|20260822|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
