@@ -6,7 +6,7 @@
       "date": "20260822",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|116930|20260822|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -30,7 +30,7 @@
       "date": "20260822",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|116958|20260822|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -54,7 +54,7 @@
       "date": "20260822",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "ACAS|36802|20260822|PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -102,7 +102,7 @@
       "date": "20260822",
       "cat": "ROYAL ROWS",
       "price": "650.00",
-      "status": "2"
+      "status": "1"
     },
     "TVHY|48041|20260822|RECLINER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -134,7 +134,7 @@
       "date": "20260822",
       "cat": "CLASSIC",
       "price": "250.00",
-      "status": "1"
+      "status": "2"
     },
     "APNS|3140|20260822|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -174,7 +174,7 @@
       "date": "20260822",
       "cat": "RECLINER ROWS",
       "price": "285.00",
-      "status": "2"
+      "status": "0"
     },
     "IVNM|8709|20260822|PRIME PLUS ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
