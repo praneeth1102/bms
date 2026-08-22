@@ -62,7 +62,7 @@
       "date": "20260822",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "TVHY|48041|20260822|RECLINER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -126,38 +126,6 @@
       "date": "20260822",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
-    },
-    "IVNM|8709|20260822|RECLINER ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260822",
-      "cat": "RECLINER ROWS",
-      "price": "285.00",
-      "status": "1"
-    },
-    "IVNM|8709|20260822|PRIME PLUS ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260822",
-      "cat": "PRIME PLUS ROWS",
-      "price": "185.00",
-      "status": "2"
-    },
-    "IVNM|8709|20260822|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260822",
-      "cat": "CLASSIC ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
-    "IVNM|8709|20260822|PRIME ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260822",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
       "status": "3"
     }
   },
