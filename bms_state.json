@@ -14,7 +14,7 @@
       "date": "20260822",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "1"
+      "status": "2"
     },
     "AMBH|116930|20260822|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -38,7 +38,7 @@
       "date": "20260822",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|116958|20260822|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -54,7 +54,7 @@
       "date": "20260822",
       "cat": "PLATINUM",
       "price": "300.00",
-      "status": "0"
+      "status": "2"
     },
     "ACAS|36802|20260822|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -63,38 +63,6 @@
       "cat": "GOLD",
       "price": "250.00",
       "status": "3"
-    },
-    "MRGT|38095|20260822|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "10:25 AM",
-      "date": "20260822",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "3"
-    },
-    "AACN|31659|20260822|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260822",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "1"
-    },
-    "AACN|31662|20260822|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "05:45 PM",
-      "date": "20260822",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "1"
-    },
-    "PIIC|32461|20260822|ROYAL ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "11:05 AM",
-      "date": "20260822",
-      "cat": "ROYAL ROWS",
-      "price": "650.00",
-      "status": "0"
     },
     "TVHY|48041|20260822|RECLINER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -120,21 +88,29 @@
       "price": "250.00",
       "status": "3"
     },
+    "AACN|31662|20260822|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:45 PM",
+      "date": "20260822",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "1"
+    },
+    "PIIC|32461|20260822|ROYAL ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "11:05 AM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "650.00",
+      "status": "0"
+    },
     "PNNG|39420|20260822|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "03:00 PM",
       "date": "20260822",
       "cat": "CLASSIC",
       "price": "250.00",
-      "status": "2"
-    },
-    "APNS|3140|20260822|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:50 AM",
-      "date": "20260822",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
+      "status": "1"
     },
     "APNS|3143|20260822|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -174,7 +150,7 @@
       "date": "20260822",
       "cat": "PRIME PLUS ROWS",
       "price": "185.00",
-      "status": "2"
+      "status": "1"
     },
     "IVNM|8709|20260822|PRIME ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
