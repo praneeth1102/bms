@@ -22,7 +22,7 @@
       "date": "20260822",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|116958|20260822|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -62,7 +62,7 @@
       "date": "20260822",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "TVHY|48041|20260822|GOLD": {
       "venue": "Tivoli Cinemas: Secunderabad",
