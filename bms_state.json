@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AMBH|116974|20260823|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:45 PM",
-      "date": "20260823",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|116974|20260823|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:45 PM",
-      "date": "20260823",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "0"
-    },
-    "AMBH|116974|20260823|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:45 PM",
-      "date": "20260823",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "0"
-    },
     "AMBH|117002|20260823|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "10:00 PM",
@@ -38,7 +14,7 @@
       "date": "20260823",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|117002|20260823|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -55,38 +31,6 @@
       "cat": "GOLD",
       "price": "350.00",
       "status": "0"
-    },
-    "TVHY|48046|20260823|RECLINER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "05:00 PM",
-      "date": "20260823",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "0"
-    },
-    "TVHY|48046|20260823|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "05:00 PM",
-      "date": "20260823",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TVHY|48046|20260823|LOUNGERS": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "05:00 PM",
-      "date": "20260823",
-      "cat": "LOUNGERS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "APNS|3149|20260823|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "05:25 PM",
-      "date": "20260823",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "1"
     },
     "APNS|3151|20260823|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
