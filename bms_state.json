@@ -48,21 +48,13 @@
       "price": "295.00",
       "status": "3"
     },
-    "ACAS|36821|20260823|PLATINUM": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "01:15 PM",
-      "date": "20260823",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "1"
-    },
-    "ACAS|36821|20260823|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "01:15 PM",
+    "AACN|31668|20260823|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:45 PM",
       "date": "20260823",
       "cat": "GOLD",
-      "price": "250.00",
-      "status": "2"
+      "price": "350.00",
+      "status": "1"
     },
     "TVHY|48046|20260823|RECLINER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -70,7 +62,7 @@
       "date": "20260823",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "TVHY|48046|20260823|GOLD": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -87,14 +79,6 @@
       "cat": "LOUNGERS",
       "price": "250.00",
       "status": "3"
-    },
-    "AACN|31668|20260823|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "05:45 PM",
-      "date": "20260823",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "1"
     },
     "PNNG|39440|20260823|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
@@ -127,38 +111,6 @@
       "cat": "GOLD",
       "price": "350.00",
       "status": "3"
-    },
-    "IVNM|8714|20260823|RECLINER ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260823",
-      "cat": "RECLINER ROWS",
-      "price": "285.00",
-      "status": "0"
-    },
-    "IVNM|8714|20260823|PRIME PLUS ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260823",
-      "cat": "PRIME PLUS ROWS",
-      "price": "185.00",
-      "status": "1"
-    },
-    "IVNM|8714|20260823|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260823",
-      "cat": "CLASSIC ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
-    "IVNM|8714|20260823|PRIME ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260823",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
-      "status": "1"
     }
   },
   "dates": {
