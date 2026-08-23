@@ -6,7 +6,7 @@
       "date": "20260823",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|116974|20260823|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -54,7 +54,7 @@
       "date": "20260823",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "TVHY|48046|20260823|RECLINER": {
       "venue": "Tivoli Cinemas: Secunderabad",
@@ -95,14 +95,6 @@
       "cat": "GOLD",
       "price": "350.00",
       "status": "2"
-    },
-    "APNS|3150|20260823|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "08:15 PM",
-      "date": "20260823",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
     },
     "APNS|3151|20260823|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
