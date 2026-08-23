@@ -1,13 +1,5 @@
 {
   "shows": {
-    "AMBH|116090|20260823|SEMI RECLINER": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:15 AM",
-      "date": "20260823",
-      "cat": "SEMI RECLINER",
-      "price": "350.00",
-      "status": "0"
-    },
     "AMBH|116974|20260823|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "04:45 PM",
@@ -22,7 +14,7 @@
       "date": "20260823",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "1"
+      "status": "2"
     },
     "AMBH|116974|20260823|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -62,7 +54,7 @@
       "date": "20260823",
       "cat": "PLATINUM",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "ACAS|36821|20260823|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -96,14 +88,6 @@
       "price": "250.00",
       "status": "3"
     },
-    "AACN|31665|20260823|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260823",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
     "AACN|31668|20260823|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "05:45 PM",
@@ -120,14 +104,6 @@
       "price": "650.00",
       "status": "0"
     },
-    "MRGT|38115|20260823|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "10:25 AM",
-      "date": "20260823",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "2"
-    },
     "PNNG|39440|20260823|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "03:00 PM",
@@ -142,7 +118,7 @@
       "date": "20260823",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "APNS|3150|20260823|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -182,7 +158,7 @@
       "date": "20260823",
       "cat": "PRIME ROWS",
       "price": "140.00",
-      "status": "2"
+      "status": "1"
     },
     "IVNM|8714|20260823|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
