@@ -14,7 +14,7 @@
       "date": "20260823",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|116974|20260823|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -150,15 +150,7 @@
       "date": "20260823",
       "cat": "PRIME PLUS ROWS",
       "price": "185.00",
-      "status": "1"
-    },
-    "IVNM|8714|20260823|PRIME ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "12:05 PM",
-      "date": "20260823",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
-      "status": "1"
+      "status": "0"
     },
     "IVNM|8714|20260823|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
@@ -167,6 +159,14 @@
       "cat": "CLASSIC ROWS",
       "price": "140.00",
       "status": "3"
+    },
+    "IVNM|8714|20260823|PRIME ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "12:05 PM",
+      "date": "20260823",
+      "cat": "PRIME ROWS",
+      "price": "140.00",
+      "status": "0"
     }
   },
   "dates": {
