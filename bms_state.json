@@ -14,7 +14,7 @@
       "date": "20260823",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|116974|20260823|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -80,21 +80,13 @@
       "price": "250.00",
       "status": "3"
     },
-    "PNNG|39440|20260823|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "03:00 PM",
-      "date": "20260823",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "1"
-    },
     "APNS|3149|20260823|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
       "time": "05:25 PM",
       "date": "20260823",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "APNS|3151|20260823|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
