@@ -96,14 +96,6 @@
       "price": "350.00",
       "status": "1"
     },
-    "PIIC|32466|20260823|ROYAL ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "11:05 AM",
-      "date": "20260823",
-      "cat": "ROYAL ROWS",
-      "price": "650.00",
-      "status": "0"
-    },
     "PNNG|39440|20260823|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "03:00 PM",
@@ -150,7 +142,7 @@
       "date": "20260823",
       "cat": "PRIME PLUS ROWS",
       "price": "185.00",
-      "status": "0"
+      "status": "1"
     },
     "IVNM|8714|20260823|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
@@ -166,7 +158,7 @@
       "date": "20260823",
       "cat": "PRIME ROWS",
       "price": "140.00",
-      "status": "0"
+      "status": "1"
     }
   },
   "dates": {
