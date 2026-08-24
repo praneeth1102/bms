@@ -118,7 +118,7 @@
       "date": "20260824",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "2"
+      "status": "3"
     },
     "MRGT|38139|20260824|EXECUTIVE": {
       "venue": "Miraj Cinemas: Geeta, Chandanagar",
@@ -176,19 +176,19 @@
       "price": "185.00",
       "status": "3"
     },
-    "IVNM|8752|20260824|PRIME ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "01:55 PM",
-      "date": "20260824",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
     "IVNM|8752|20260824|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "01:55 PM",
       "date": "20260824",
       "cat": "CLASSIC ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "IVNM|8752|20260824|PRIME ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "01:55 PM",
+      "date": "20260824",
+      "cat": "PRIME ROWS",
       "price": "140.00",
       "status": "3"
     }
