@@ -1,13 +1,5 @@
 {
   "shows": {
-    "AMBH|117152|20260824|SEMI RECLINER": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:15 AM",
-      "date": "20260824",
-      "cat": "SEMI RECLINER",
-      "price": "350.00",
-      "status": "2"
-    },
     "AMBH|117125|20260824|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "04:50 PM",
@@ -110,7 +102,7 @@
       "date": "20260824",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PNNG|39477|20260824|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
