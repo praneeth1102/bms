@@ -54,7 +54,7 @@
       "date": "20260824",
       "cat": "PLATINUM",
       "price": "300.00",
-      "status": "2"
+      "status": "3"
     },
     "ACAS|36912|20260824|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -102,7 +102,7 @@
       "date": "20260824",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "2"
+      "status": "1"
     },
     "APNS|3195|20260824|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
