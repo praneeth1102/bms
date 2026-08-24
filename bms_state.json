@@ -88,14 +88,6 @@
       "price": "250.00",
       "status": "3"
     },
-    "AACN|31711|20260824|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260824",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
     "AACN|31712|20260824|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "05:45 PM",
@@ -111,22 +103,6 @@
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "2"
-    },
-    "MRGT|38139|20260824|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "10:20 AM",
-      "date": "20260824",
-      "cat": "EXECUTIVE",
-      "price": "150.00",
-      "status": "3"
-    },
-    "APNS|3192|20260824|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:50 AM",
-      "date": "20260824",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
     },
     "APNS|3195|20260824|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -168,19 +144,19 @@
       "price": "185.00",
       "status": "3"
     },
-    "IVNM|8752|20260824|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "01:55 PM",
-      "date": "20260824",
-      "cat": "CLASSIC ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
     "IVNM|8752|20260824|PRIME ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "01:55 PM",
       "date": "20260824",
       "cat": "PRIME ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "IVNM|8752|20260824|CLASSIC ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "01:55 PM",
+      "date": "20260824",
+      "cat": "CLASSIC ROWS",
       "price": "140.00",
       "status": "3"
     }
