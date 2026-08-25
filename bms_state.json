@@ -104,19 +104,19 @@
       "price": "185.00",
       "status": "3"
     },
-    "IVNM|8785|20260825|PRIME ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "01:55 PM",
-      "date": "20260825",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
     "IVNM|8785|20260825|CLASSIC ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "01:55 PM",
       "date": "20260825",
       "cat": "CLASSIC ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "IVNM|8785|20260825|PRIME ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "01:55 PM",
+      "date": "20260825",
+      "cat": "PRIME ROWS",
       "price": "140.00",
       "status": "3"
     }
