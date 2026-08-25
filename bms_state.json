@@ -1,45 +1,29 @@
 {
   "shows": {
-    "AMBH|117184|20260825|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:00 PM",
-      "date": "20260825",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "1"
-    },
-    "AMBH|117184|20260825|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:00 PM",
-      "date": "20260825",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AMBH|117184|20260825|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:00 PM",
-      "date": "20260825",
-      "cat": "LOUNGERS",
-      "price": "295.00",
+    "PNNG|39586|20260826|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "03:00 PM",
+      "date": "20260826",
+      "cat": "CLASSIC",
+      "price": "149.00",
       "status": "2"
     },
-    "APNS|3227|20260825|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:10 PM",
-      "date": "20260825",
+    "TVHY|48118|20260826|GOLD": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "04:30 PM",
+      "date": "20260826",
       "cat": "GOLD",
-      "price": "350.00",
+      "price": "250.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260825": "BOOKABLE",
-    "20260826": "AVAILABLE",
+    "20260826": "BOOKABLE",
     "20260827": "AVAILABLE",
     "20260828": "NOT_OPEN",
     "20260829": "NOT_OPEN",
     "20260830": "NOT_OPEN",
-    "20260831": "NOT_OPEN"
+    "20260831": "NOT_OPEN",
+    "20260901": "NOT_OPEN"
   }
 }
