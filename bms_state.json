@@ -1,5 +1,53 @@
 {
   "shows": {
+    "AMBH|117192|20260825|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:50 PM",
+      "date": "20260825",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|117192|20260825|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:50 PM",
+      "date": "20260825",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|117192|20260825|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:50 PM",
+      "date": "20260825",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|117184|20260825|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:00 PM",
+      "date": "20260825",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|117184|20260825|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:00 PM",
+      "date": "20260825",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|117184|20260825|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:00 PM",
+      "date": "20260825",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
     "ACAS|36941|20260825|PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "02:05 PM",
@@ -40,21 +88,21 @@
       "price": "250.00",
       "status": "3"
     },
+    "AACN|31720|20260825|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "05:45 PM",
+      "date": "20260825",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
     "PNNG|39523|20260825|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "03:00 PM",
       "date": "20260825",
       "cat": "CLASSIC",
       "price": "105.00",
-      "status": "3"
-    },
-    "APNS|3222|20260825|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:50 AM",
-      "date": "20260825",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "APNS|3225|20260825|GOLD": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -80,21 +128,13 @@
       "price": "350.00",
       "status": "3"
     },
-    "MRGT|38161|20260825|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "10:20 AM",
-      "date": "20260825",
-      "cat": "EXECUTIVE",
-      "price": "105.00",
-      "status": "3"
-    },
     "IVNM|8785|20260825|RECLINER ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "01:55 PM",
       "date": "20260825",
       "cat": "RECLINER ROWS",
       "price": "285.00",
-      "status": "3"
+      "status": "2"
     },
     "IVNM|8785|20260825|PRIME PLUS ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
