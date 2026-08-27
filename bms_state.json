@@ -6,7 +6,7 @@
       "date": "20260827",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "AMBH|117315|20260827|GOLD": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -14,7 +14,7 @@
       "date": "20260827",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|117315|20260827|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -23,14 +23,6 @@
       "cat": "LOUNGERS",
       "price": "295.00",
       "status": "3"
-    },
-    "PNNG|39629|20260827|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "03:00 PM",
-      "date": "20260827",
-      "cat": "CLASSIC",
-      "price": "149.00",
-      "status": "2"
     },
     "TVHY|48142|20260827|GOLD": {
       "venue": "Tivoli Cinemas: Secunderabad",
