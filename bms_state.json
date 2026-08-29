@@ -1,35 +1,11 @@
 {
   "shows": {
-    "PRHN|255501|20260829|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "04:10 PM",
+    "PNNG|39721|20260829|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "10:30 PM",
       "date": "20260829",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "2"
-    },
-    "AMBH|117458|20260829|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "02:25 PM",
-      "date": "20260829",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|117458|20260829|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "02:25 PM",
-      "date": "20260829",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AMBH|117458|20260829|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "02:25 PM",
-      "date": "20260829",
-      "cat": "LOUNGERS",
-      "price": "295.00",
+      "cat": "CLASSIC",
+      "price": "199.00",
       "status": "2"
     },
     "TVHY|48215|20260829|GOLD": {
@@ -38,39 +14,7 @@
       "date": "20260829",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
-    },
-    "AACN|31918|20260829|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260829",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "1"
-    },
-    "PNNG|39717|20260829|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "12:10 PM",
-      "date": "20260829",
-      "cat": "CLASSIC",
-      "price": "199.00",
       "status": "2"
-    },
-    "PNNG|39721|20260829|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "10:30 PM",
-      "date": "20260829",
-      "cat": "CLASSIC",
-      "price": "199.00",
-      "status": "3"
-    },
-    "APNS|3428|20260829|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:00 AM",
-      "date": "20260829",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
     }
   },
   "dates": {
@@ -79,7 +23,7 @@
     "20260831": "AVAILABLE",
     "20260901": "AVAILABLE",
     "20260902": "AVAILABLE",
-    "20260903": "NOT_OPEN",
+    "20260903": "AVAILABLE",
     "20260904": "NOT_OPEN"
   }
 }
