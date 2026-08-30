@@ -1,21 +1,85 @@
 {
   "shows": {
-    "PNNG|39726|20260830|CLASSIC": {
+    "PRHN|255617|20260831|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "10:10 AM",
+      "date": "20260831",
+      "cat": "EXECUTIVE",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PRHN|255618|20260831|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "04:20 PM",
+      "date": "20260831",
+      "cat": "EXECUTIVE",
+      "price": "200.00",
+      "status": "3"
+    },
+    "AMBH|117421|20260831|SEMI RECLINER": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "07:35 PM",
+      "date": "20260831",
+      "cat": "SEMI RECLINER",
+      "price": "350.00",
+      "status": "2"
+    },
+    "TVHY|48233|20260831|GOLD": {
+      "venue": "Tivoli Cinemas: Secunderabad",
+      "time": "07:20 PM",
+      "date": "20260831",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "AACN|32017|20260831|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:00 AM",
+      "date": "20260831",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PNNG|39836|20260831|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "10:30 PM",
-      "date": "20260830",
+      "time": "12:10 PM",
+      "date": "20260831",
       "cat": "CLASSIC",
       "price": "199.00",
-      "status": "2"
+      "status": "3"
+    },
+    "PNNG|39893|20260831|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "03:00 PM",
+      "date": "20260831",
+      "cat": "CLASSIC",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PNNG|39840|20260831|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "10:30 PM",
+      "date": "20260831",
+      "cat": "CLASSIC",
+      "price": "199.00",
+      "status": "3"
+    },
+    "APNS|3471|20260831|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "11:00 AM",
+      "date": "20260831",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260830": "BOOKABLE",
-    "20260831": "AVAILABLE",
+    "20260831": "BOOKABLE",
     "20260901": "AVAILABLE",
     "20260902": "AVAILABLE",
     "20260903": "AVAILABLE",
     "20260904": "NOT_OPEN",
-    "20260905": "NOT_OPEN"
+    "20260905": "NOT_OPEN",
+    "20260906": "NOT_OPEN"
   }
 }
