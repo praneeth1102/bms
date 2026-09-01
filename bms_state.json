@@ -1,45 +1,21 @@
 {
   "shows": {
-    "PRHN|255658|20260901|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "04:20 PM",
-      "date": "20260901",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "3"
-    },
-    "AMBH|117626|20260901|SEMI RECLINER": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "07:35 PM",
-      "date": "20260901",
-      "cat": "SEMI RECLINER",
-      "price": "350.00",
-      "status": "2"
-    },
-    "TVHY|48248|20260901|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "07:20 PM",
-      "date": "20260901",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
     "PNNG|39845|20260901|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "10:30 PM",
       "date": "20260901",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
     "20260901": "BOOKABLE",
     "20260902": "AVAILABLE",
     "20260903": "AVAILABLE",
-    "20260904": "NOT_OPEN",
-    "20260905": "NOT_OPEN",
-    "20260906": "NOT_OPEN",
+    "20260904": "AVAILABLE",
+    "20260905": "AVAILABLE",
+    "20260906": "AVAILABLE",
     "20260907": "NOT_OPEN"
   }
 }
