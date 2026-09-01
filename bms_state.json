@@ -1,61 +1,45 @@
 {
   "shows": {
-    "PRHN|255618|20260831|EXECUTIVE": {
+    "PRHN|255658|20260901|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "04:20 PM",
-      "date": "20260831",
+      "date": "20260901",
       "cat": "EXECUTIVE",
       "price": "200.00",
       "status": "3"
     },
-    "PRHN|255718|20260831|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "10:30 PM",
-      "date": "20260831",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "3"
-    },
-    "AMBH|117421|20260831|SEMI RECLINER": {
+    "AMBH|117626|20260901|SEMI RECLINER": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "07:35 PM",
-      "date": "20260831",
+      "date": "20260901",
       "cat": "SEMI RECLINER",
       "price": "350.00",
       "status": "2"
     },
-    "TVHY|48233|20260831|GOLD": {
+    "TVHY|48248|20260901|GOLD": {
       "venue": "Tivoli Cinemas: Secunderabad",
       "time": "07:20 PM",
-      "date": "20260831",
+      "date": "20260901",
       "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "PNNG|39893|20260831|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "03:00 PM",
-      "date": "20260831",
-      "cat": "CLASSIC",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PNNG|39840|20260831|CLASSIC": {
+    "PNNG|39845|20260901|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "10:30 PM",
-      "date": "20260831",
+      "date": "20260901",
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260831": "BOOKABLE",
-    "20260901": "AVAILABLE",
+    "20260901": "BOOKABLE",
     "20260902": "AVAILABLE",
-    "20260903": "NOT_OPEN",
+    "20260903": "AVAILABLE",
     "20260904": "NOT_OPEN",
     "20260905": "NOT_OPEN",
-    "20260906": "NOT_OPEN"
+    "20260906": "NOT_OPEN",
+    "20260907": "NOT_OPEN"
   }
 }
