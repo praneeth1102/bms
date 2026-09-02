@@ -32,14 +32,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "AACN|32029|20260902|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260902",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
     "PNNG|39846|20260902|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "12:10 PM",
@@ -70,14 +62,6 @@
       "date": "20260902",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
-    },
-    "APNS|3519|20260902|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:00 AM",
-      "date": "20260902",
-      "cat": "GOLD",
-      "price": "350.00",
       "status": "3"
     }
   },
