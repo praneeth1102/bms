@@ -1,53 +1,45 @@
 {
   "shows": {
-    "PRHN|255696|20260903|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "05:25 PM",
-      "date": "20260903",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "3"
+    "AACN|32095|20260904|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:00 AM",
+      "date": "20260904",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "2"
     },
-    "PNNG|39973|20260903|RECLINER": {
+    "PNNG|39996|20260904|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "05:05 PM",
-      "date": "20260903",
-      "cat": "RECLINER",
-      "price": "249.00",
-      "status": "3"
-    },
-    "PNNG|39973|20260903|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "05:05 PM",
-      "date": "20260903",
+      "time": "11:50 AM",
+      "date": "20260904",
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "3"
     },
-    "PNNG|39855|20260903|CLASSIC": {
+    "PNNG|40051|20260904|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "04:30 PM",
+      "date": "20260904",
+      "cat": "CLASSIC",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PNNG|40000|20260904|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "10:30 PM",
-      "date": "20260903",
+      "date": "20260904",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
-    },
-    "TVHY|48331|20260903|GOLD": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "07:20 PM",
-      "date": "20260903",
-      "cat": "GOLD",
-      "price": "200.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260903": "BOOKABLE",
-    "20260904": "AVAILABLE",
+    "20260904": "BOOKABLE",
     "20260905": "AVAILABLE",
     "20260906": "AVAILABLE",
     "20260907": "NOT_OPEN",
     "20260908": "NOT_OPEN",
-    "20260909": "NOT_OPEN"
+    "20260909": "NOT_OPEN",
+    "20260910": "NOT_OPEN"
   }
 }
