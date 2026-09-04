@@ -1,20 +1,12 @@
 {
   "shows": {
-    "AACN|32095|20260904|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:00 AM",
-      "date": "20260904",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
-    },
     "PNNG|39996|20260904|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "11:50 AM",
       "date": "20260904",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
+      "status": "2"
     },
     "PNNG|40051|20260904|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
