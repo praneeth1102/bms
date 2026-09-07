@@ -1,29 +1,53 @@
 {
   "shows": {
-    "PNNG|40113|20260907|RECLINER": {
+    "AACN|32354|20260908|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "11:30 AM",
+      "date": "20260908",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PNNG|40202|20260908|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "11:50 AM",
+      "date": "20260908",
+      "cat": "CLASSIC",
+      "price": "105.00",
+      "status": "3"
+    },
+    "PNNG|40213|20260908|RECLINER": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "04:30 PM",
-      "date": "20260907",
+      "date": "20260908",
       "cat": "RECLINER",
       "price": "249.00",
-      "status": "2"
+      "status": "3"
     },
-    "PNNG|40113|20260907|CLASSIC": {
+    "PNNG|40213|20260908|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "04:30 PM",
-      "date": "20260907",
+      "date": "20260908",
       "cat": "CLASSIC",
-      "price": "149.00",
+      "price": "105.00",
+      "status": "3"
+    },
+    "APNS|3771|20260908|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "04:30 PM",
+      "date": "20260908",
+      "cat": "GOLD",
+      "price": "350.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260907": "BOOKABLE",
-    "20260908": "AVAILABLE",
+    "20260908": "BOOKABLE",
     "20260909": "AVAILABLE",
     "20260910": "NOT_OPEN",
     "20260911": "NOT_OPEN",
     "20260912": "NOT_OPEN",
-    "20260913": "NOT_OPEN"
+    "20260913": "NOT_OPEN",
+    "20260914": "NOT_OPEN"
   }
 }
