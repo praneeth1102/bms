@@ -1,29 +1,29 @@
 {
   "shows": {
-    "PNNG|40174|20260909|RECLINER": {
+    "PNNG|40231|20260910|RECLINER": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "04:30 PM",
-      "date": "20260909",
+      "time": "04:40 PM",
+      "date": "20260910",
       "cat": "RECLINER",
       "price": "249.00",
       "status": "3"
     },
-    "PNNG|40174|20260909|CLASSIC": {
+    "PNNG|40231|20260910|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "04:30 PM",
-      "date": "20260909",
+      "time": "04:40 PM",
+      "date": "20260910",
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260909": "BOOKABLE",
-    "20260910": "AVAILABLE",
+    "20260910": "BOOKABLE",
     "20260911": "AVAILABLE",
     "20260912": "AVAILABLE",
     "20260913": "AVAILABLE",
     "20260914": "NOT_OPEN",
-    "20260915": "NOT_OPEN"
+    "20260915": "NOT_OPEN",
+    "20260916": "NOT_OPEN"
   }
 }
