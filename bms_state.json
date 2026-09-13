@@ -8,22 +8,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "CTNR|13220|20260913|EXECUTIVE": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "10:55 AM",
-      "date": "20260913",
-      "cat": "EXECUTIVE",
-      "price": "150.00",
-      "status": "3"
-    },
-    "CTNR|13220|20260913|VIP": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "10:55 AM",
-      "date": "20260913",
-      "cat": "VIP",
-      "price": "350.00",
-      "status": "1"
-    },
     "PNNG|40336|20260913|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "10:30 PM",
