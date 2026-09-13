@@ -1,20 +1,12 @@
 {
   "shows": {
-    "PRHN|256126|20260913|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "05:25 PM",
-      "date": "20260913",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "3"
-    },
     "PNNG|40336|20260913|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "10:30 PM",
       "date": "20260913",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
@@ -22,7 +14,7 @@
     "20260914": "AVAILABLE",
     "20260915": "AVAILABLE",
     "20260916": "AVAILABLE",
-    "20260917": "NOT_OPEN",
+    "20260917": "AVAILABLE",
     "20260918": "NOT_OPEN",
     "20260919": "NOT_OPEN"
   }
