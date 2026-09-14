@@ -1,45 +1,61 @@
 {
   "shows": {
-    "PRHN|256187|20260914|EXECUTIVE": {
+    "PRHN|256261|20260915|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "06:00 PM",
-      "date": "20260914",
+      "date": "20260915",
       "cat": "EXECUTIVE",
       "price": "200.00",
       "status": "3"
     },
-    "CTNR|13357|20260914|EXECUTIVE": {
+    "CTNR|13409|20260915|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "10:45 AM",
-      "date": "20260914",
+      "time": "10:35 AM",
+      "date": "20260915",
       "cat": "EXECUTIVE",
-      "price": "150.00",
+      "price": "105.00",
       "status": "3"
     },
-    "CTNR|13357|20260914|VIP": {
+    "CTNR|13409|20260915|VIP": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "10:45 AM",
-      "date": "20260914",
+      "time": "10:35 AM",
+      "date": "20260915",
       "cat": "VIP",
       "price": "350.00",
       "status": "3"
     },
-    "PNNG|40405|20260914|CLASSIC": {
+    "CTNR|13586|20260915|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "04:45 PM",
+      "date": "20260915",
+      "cat": "EXECUTIVE",
+      "price": "105.00",
+      "status": "3"
+    },
+    "CTNR|13586|20260915|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "04:45 PM",
+      "date": "20260915",
+      "cat": "VIP",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PNNG|40477|20260915|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "10:30 PM",
-      "date": "20260914",
+      "date": "20260915",
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260914": "BOOKABLE",
-    "20260915": "AVAILABLE",
+    "20260915": "BOOKABLE",
     "20260916": "AVAILABLE",
     "20260917": "AVAILABLE",
     "20260918": "NOT_OPEN",
     "20260919": "NOT_OPEN",
-    "20260920": "NOT_OPEN"
+    "20260920": "NOT_OPEN",
+    "20260921": "NOT_OPEN"
   }
 }
