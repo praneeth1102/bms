@@ -8,22 +8,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "CTNR|13409|20260915|EXECUTIVE": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "10:35 AM",
-      "date": "20260915",
-      "cat": "EXECUTIVE",
-      "price": "105.00",
-      "status": "3"
-    },
-    "CTNR|13409|20260915|VIP": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "10:35 AM",
-      "date": "20260915",
-      "cat": "VIP",
-      "price": "350.00",
-      "status": "3"
-    },
     "CTNR|13586|20260915|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
       "time": "04:45 PM",
