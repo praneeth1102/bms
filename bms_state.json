@@ -1,29 +1,45 @@
 {
   "shows": {
-    "PRHN|256426|20260919|EXECUTIVE": {
+    "PRHN|256433|20260920|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "05:45 PM",
-      "date": "20260919",
+      "date": "20260920",
       "cat": "EXECUTIVE",
       "price": "200.00",
       "status": "3"
     },
-    "PNNG|40688|20260919|CLASSIC": {
+    "CTNR|13698|20260920|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "11:25 AM",
+      "date": "20260920",
+      "cat": "EXECUTIVE",
+      "price": "150.00",
+      "status": "3"
+    },
+    "CTNR|13698|20260920|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "11:25 AM",
+      "date": "20260920",
+      "cat": "VIP",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PNNG|40690|20260920|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "05:00 PM",
-      "date": "20260919",
+      "time": "10:30 PM",
+      "date": "20260920",
       "cat": "CLASSIC",
       "price": "149.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260919": "BOOKABLE",
-    "20260920": "AVAILABLE",
+    "20260920": "BOOKABLE",
     "20260921": "AVAILABLE",
     "20260922": "AVAILABLE",
     "20260923": "AVAILABLE",
     "20260924": "NOT_OPEN",
-    "20260925": "NOT_OPEN"
+    "20260925": "NOT_OPEN",
+    "20260926": "NOT_OPEN"
   }
 }
