@@ -6,6 +6,14 @@
       "date": "20260929",
       "cat": "CLASSIC",
       "price": "149.00",
+      "status": "2"
+    },
+    "PNNG|41136|20260929|CLASSIC": {
+      "venue": "PVR: Next Galleria Mall, Panjagutta",
+      "time": "08:05 PM",
+      "date": "20260929",
+      "cat": "CLASSIC",
+      "price": "149.00",
       "status": "3"
     }
   },
