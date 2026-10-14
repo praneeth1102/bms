@@ -1,21 +1,21 @@
 {
   "shows": {
-    "PNNG|41693|20261014|CLASSIC": {
+    "PNNG|41722|20261015|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
       "time": "02:50 PM",
-      "date": "20261014",
+      "date": "20261015",
       "cat": "CLASSIC",
       "price": "149.00",
-      "status": "2"
+      "status": "3"
     }
   },
   "dates": {
-    "20261014": "BOOKABLE",
-    "20261015": "AVAILABLE",
+    "20261015": "BOOKABLE",
     "20261016": "NOT_OPEN",
     "20261017": "NOT_OPEN",
     "20261018": "NOT_OPEN",
     "20261019": "NOT_OPEN",
-    "20261020": "NOT_OPEN"
+    "20261020": "NOT_OPEN",
+    "20261021": "NOT_OPEN"
   }
 }
